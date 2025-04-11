@@ -1,7 +1,7 @@
 ## 📘 Documentação Completa do Projeto: **Performance Insights**
 
 ### 🎯 Objetivo
-Criar um painel interativo que analisa campanhas de marketing digital (Google Ads e Facebook Ads), gerando métricas importantes como CTR, CPC, conversões, custo por conversão, etc. A ideia é centralizar os dados, tratá-los com Python, armazená-los no BigQuery e visualizá-los no Looker Studio.
+Criar um painel interativo que analisa campanhas de marketing digital (Google Ads e Facebook Ads), gerando métricas importantes como CTR, CPC, conversões, custo por conversão, etc. A ideia é centralizar os dados, tratá-los com Python, armazená-los no modelo BigQuery e visualizá-los no Looker Studio.
 
 ---
 
@@ -12,7 +12,7 @@ O arquivo **`campanhas.csv`** possui os seguintes campos:
 | Campo         | Tipo    | Descrição                                     |
 | ------------- | ------- | --------------------------------------------- |
 | `date`        | Data    | Data da execução da campanha                  |
-| `campaign`    | Texto   | Nome da campanha                              |
+| `name`    | Texto   | Nome da campanha                              |
 | `platform`    | Texto   | Plataforma (Google ou Facebook)               |
 | `impressions` | Inteiro | Quantidade de vezes que o anúncio foi exibido |
 | `clicks`      | Inteiro | Quantidade de cliques no anúncio              |
