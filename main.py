@@ -5,6 +5,8 @@ campaign_path = "campaigns.csv"
 
 campaigns_df = pd.read_csv(campaign_path)
 
+# Dados que representam informações 'cruas', sem nenhuma métrica gerada
+
 campaigns_data = campaigns_df.to_dict(orient="records")
 
 campaigns = [
@@ -20,4 +22,13 @@ campaigns = [
     for c in campaigns_data
 ]
 
-print(campaigns[0].get()["name"])
+
+# Métricas de Click Through Rate (CTR), Cost Per Click (CPC) e Cost Per Action (CPA) criadas e convertidas em array
+
+campaign_dict = [c.get() for c in campaigns]
+
+
+handled_campaigns = pd.DataFrame(campaign_dict)
+
+
+handled_campaigns.to_csv("handled_campaigns.csv", index=False)
