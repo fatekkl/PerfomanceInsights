@@ -1,0 +1,301 @@
+date,name,platform,impressions,clicks,conversions,cost,ctr,cpc,cpa
+2025-04-01,Campanha Páscoa,Google,11079,790,79,847.79,7.13,1.07,10.73
+2025-04-01,Campanha Páscoa,Facebook,6789,691,87,773.32,10.18,1.12,8.89
+2025-04-01,Campanha Outono,Google,16696,967,39,897.85,5.79,0.93,23.02
+2025-04-01,Campanha Outono,Facebook,19208,427,49,816.73,2.22,1.91,16.67
+2025-04-01,Campanha Abril,Google,16394,1497,43,833.58,9.13,0.56,19.39
+2025-04-01,Campanha Abril,Facebook,6045,484,31,966.22,8.01,2.0,31.17
+2025-04-01,Campanha Dia das Mães,Google,15871,869,84,1495.52,5.48,1.72,17.8
+2025-04-01,Campanha Dia das Mães,Facebook,19862,533,69,313.12,2.68,0.59,4.54
+2025-04-01,Campanha Promo Relâmpago,Google,7495,645,71,420.51,8.61,0.65,5.92
+2025-04-01,Campanha Promo Relâmpago,Facebook,11836,646,70,415.83,5.46,0.64,5.94
+2025-04-02,Campanha Páscoa,Google,11035,1197,97,386.78,10.85,0.32,3.99
+2025-04-02,Campanha Páscoa,Facebook,8080,924,34,1100.99,11.44,1.19,32.38
+2025-04-02,Campanha Outono,Google,6146,696,79,381.52,11.32,0.55,4.83
+2025-04-02,Campanha Outono,Facebook,9599,539,71,1068.58,5.62,1.98,15.05
+2025-04-02,Campanha Abril,Google,8388,626,91,1425.8,7.46,2.28,15.67
+2025-04-02,Campanha Abril,Facebook,6320,1275,65,222.09,20.17,0.17,3.42
+2025-04-02,Campanha Dia das Mães,Google,5601,791,41,525.86,14.12,0.66,12.83
+2025-04-02,Campanha Dia das Mães,Facebook,13250,945,100,210.02,7.13,0.22,2.1
+2025-04-02,Campanha Promo Relâmpago,Google,10192,1010,39,871.33,9.91,0.86,22.34
+2025-04-02,Campanha Promo Relâmpago,Facebook,13592,1319,41,380.74,9.7,0.29,9.29
+2025-04-03,Campanha Páscoa,Google,14067,1299,79,788.97,9.23,0.61,9.99
+2025-04-03,Campanha Páscoa,Facebook,16281,1030,72,985.8,6.33,0.96,13.69
+2025-04-03,Campanha Outono,Google,5784,912,73,665.9,15.77,0.73,9.12
+2025-04-03,Campanha Outono,Facebook,6769,1416,92,1134.93,20.92,0.8,12.34
+2025-04-03,Campanha Abril,Google,10152,577,97,534.82,5.68,0.93,5.51
+2025-04-03,Campanha Abril,Facebook,14247,1324,96,1147.85,9.29,0.87,11.96
+2025-04-03,Campanha Dia das Mães,Google,19394,1418,87,416.01,7.31,0.29,4.78
+2025-04-03,Campanha Dia das Mães,Facebook,15303,1054,55,719.23,6.89,0.68,13.08
+2025-04-03,Campanha Promo Relâmpago,Google,16518,846,76,854.32,5.12,1.01,11.24
+2025-04-03,Campanha Promo Relâmpago,Facebook,11758,385,38,990.74,3.27,2.57,26.07
+2025-04-04,Campanha Páscoa,Google,11858,444,94,320.85,3.74,0.72,3.41
+2025-04-04,Campanha Páscoa,Facebook,18338,885,49,1195.54,4.83,1.35,24.4
+2025-04-04,Campanha Outono,Google,10975,527,51,326.89,4.8,0.62,6.41
+2025-04-04,Campanha Outono,Facebook,8361,763,97,461.87,9.13,0.61,4.76
+2025-04-04,Campanha Abril,Google,15025,381,72,315.44,2.54,0.83,4.38
+2025-04-04,Campanha Abril,Facebook,5677,1449,41,1098.68,25.52,0.76,26.8
+2025-04-04,Campanha Dia das Mães,Google,15204,1184,37,1241.87,7.79,1.05,33.56
+2025-04-04,Campanha Dia das Mães,Facebook,14630,575,52,1221.02,3.93,2.12,23.48
+2025-04-04,Campanha Promo Relâmpago,Google,13751,396,39,425.67,2.88,1.07,10.91
+2025-04-04,Campanha Promo Relâmpago,Facebook,10432,300,51,982.44,2.88,3.27,19.26
+2025-04-05,Campanha Páscoa,Google,14108,1065,71,726.52,7.55,0.68,10.23
+2025-04-05,Campanha Páscoa,Facebook,19560,638,54,1453.6,3.26,2.28,26.92
+2025-04-05,Campanha Outono,Google,16719,1179,71,550.01,7.05,0.47,7.75
+2025-04-05,Campanha Outono,Facebook,12974,858,100,754.77,6.61,0.88,7.55
+2025-04-05,Campanha Abril,Google,13101,1309,38,314.7,9.99,0.24,8.28
+2025-04-05,Campanha Abril,Facebook,18912,1290,74,251.45,6.82,0.19,3.4
+2025-04-05,Campanha Dia das Mães,Google,10510,1370,63,726.21,13.04,0.53,11.53
+2025-04-05,Campanha Dia das Mães,Facebook,5814,950,59,1056.82,16.34,1.11,17.91
+2025-04-05,Campanha Promo Relâmpago,Google,8296,367,79,1366.88,4.42,3.72,17.3
+2025-04-05,Campanha Promo Relâmpago,Facebook,9559,1413,44,1345.16,14.78,0.95,30.57
+2025-04-06,Campanha Páscoa,Google,11946,369,52,506.44,3.09,1.37,9.74
+2025-04-06,Campanha Páscoa,Facebook,15180,539,47,1035.1,3.55,1.92,22.02
+2025-04-06,Campanha Outono,Google,5128,1416,79,233.93,27.61,0.17,2.96
+2025-04-06,Campanha Outono,Facebook,16832,1070,93,365.08,6.36,0.34,3.93
+2025-04-06,Campanha Abril,Google,18153,1333,62,633.85,7.34,0.48,10.22
+2025-04-06,Campanha Abril,Facebook,7754,457,40,1191.82,5.89,2.61,29.8
+2025-04-06,Campanha Dia das Mães,Google,8908,1092,98,996.02,12.26,0.91,10.16
+2025-04-06,Campanha Dia das Mães,Facebook,16640,1021,37,1161.42,6.14,1.14,31.39
+2025-04-06,Campanha Promo Relâmpago,Google,16448,1406,32,378.57,8.55,0.27,11.83
+2025-04-06,Campanha Promo Relâmpago,Facebook,9403,1037,39,1090.02,11.03,1.05,27.95
+2025-04-07,Campanha Páscoa,Google,14658,1293,85,1167.12,8.82,0.9,13.73
+2025-04-07,Campanha Páscoa,Facebook,18522,994,72,579.83,5.37,0.58,8.05
+2025-04-07,Campanha Outono,Google,6961,1413,57,397.13,20.3,0.28,6.97
+2025-04-07,Campanha Outono,Facebook,18492,1338,31,876.01,7.24,0.65,28.26
+2025-04-07,Campanha Abril,Google,8965,1081,88,609.17,12.06,0.56,6.92
+2025-04-07,Campanha Abril,Facebook,7410,986,38,1160.11,13.31,1.18,30.53
+2025-04-07,Campanha Dia das Mães,Google,14274,1262,33,866.25,8.84,0.69,26.25
+2025-04-07,Campanha Dia das Mães,Facebook,11109,418,70,474.58,3.76,1.14,6.78
+2025-04-07,Campanha Promo Relâmpago,Google,16905,427,32,1263.09,2.53,2.96,39.47
+2025-04-07,Campanha Promo Relâmpago,Facebook,9665,1409,41,656.22,14.58,0.47,16.01
+2025-04-08,Campanha Páscoa,Google,13988,760,68,485.03,5.43,0.64,7.13
+2025-04-08,Campanha Páscoa,Facebook,6030,1134,99,1147.09,18.81,1.01,11.59
+2025-04-08,Campanha Outono,Google,8962,1265,49,357.3,14.12,0.28,7.29
+2025-04-08,Campanha Outono,Facebook,16712,1050,61,1333.91,6.28,1.27,21.87
+2025-04-08,Campanha Abril,Google,5797,384,65,615.9,6.62,1.6,9.48
+2025-04-08,Campanha Abril,Facebook,9863,1281,74,1383.77,12.99,1.08,18.7
+2025-04-08,Campanha Dia das Mães,Google,14644,896,64,1117.65,6.12,1.25,17.46
+2025-04-08,Campanha Dia das Mães,Facebook,9557,885,61,720.89,9.26,0.81,11.82
+2025-04-08,Campanha Promo Relâmpago,Google,8159,1279,37,502.76,15.68,0.39,13.59
+2025-04-08,Campanha Promo Relâmpago,Facebook,5869,783,73,860.85,13.34,1.1,11.79
+2025-04-09,Campanha Páscoa,Google,13606,1326,63,413.17,9.75,0.31,6.56
+2025-04-09,Campanha Páscoa,Facebook,16793,444,43,1357.01,2.64,3.06,31.56
+2025-04-09,Campanha Outono,Google,13362,1110,53,948.78,8.31,0.85,17.9
+2025-04-09,Campanha Outono,Facebook,19213,823,68,459.22,4.28,0.56,6.75
+2025-04-09,Campanha Abril,Google,13532,1488,100,605.08,11.0,0.41,6.05
+2025-04-09,Campanha Abril,Facebook,7128,614,92,830.22,8.61,1.35,9.02
+2025-04-09,Campanha Dia das Mães,Google,5533,310,45,707.29,5.6,2.28,15.72
+2025-04-09,Campanha Dia das Mães,Facebook,16345,1040,90,843.14,6.36,0.81,9.37
+2025-04-09,Campanha Promo Relâmpago,Google,18333,1044,90,1308.65,5.69,1.25,14.54
+2025-04-09,Campanha Promo Relâmpago,Facebook,17308,1496,62,1193.6,8.64,0.8,19.25
+2025-04-10,Campanha Páscoa,Google,8730,748,99,1210.97,8.57,1.62,12.23
+2025-04-10,Campanha Páscoa,Facebook,12191,403,61,618.79,3.31,1.54,10.14
+2025-04-10,Campanha Outono,Google,15958,747,32,254.32,4.68,0.34,7.95
+2025-04-10,Campanha Outono,Facebook,17425,1332,84,1459.77,7.64,1.1,17.38
+2025-04-10,Campanha Abril,Google,19852,1337,50,824.17,6.73,0.62,16.48
+2025-04-10,Campanha Abril,Facebook,7947,887,39,694.05,11.16,0.78,17.8
+2025-04-10,Campanha Dia das Mães,Google,9956,1031,67,246.16,10.36,0.24,3.67
+2025-04-10,Campanha Dia das Mães,Facebook,11281,1464,100,1187.04,12.98,0.81,11.87
+2025-04-10,Campanha Promo Relâmpago,Google,18717,1006,90,1418.15,5.37,1.41,15.76
+2025-04-10,Campanha Promo Relâmpago,Facebook,7317,858,71,1416.24,11.73,1.65,19.95
+2025-04-11,Campanha Páscoa,Google,11218,904,45,383.93,8.06,0.42,8.53
+2025-04-11,Campanha Páscoa,Facebook,14054,648,87,233.38,4.61,0.36,2.68
+2025-04-11,Campanha Outono,Google,17852,1115,94,1300.56,6.25,1.17,13.84
+2025-04-11,Campanha Outono,Facebook,12299,982,55,296.89,7.98,0.3,5.4
+2025-04-11,Campanha Abril,Google,17666,1250,49,1415.94,7.08,1.13,28.9
+2025-04-11,Campanha Abril,Facebook,8197,779,63,681.59,9.5,0.87,10.82
+2025-04-11,Campanha Dia das Mães,Google,13645,603,71,895.96,4.42,1.49,12.62
+2025-04-11,Campanha Dia das Mães,Facebook,5338,1117,82,1163.15,20.93,1.04,14.18
+2025-04-11,Campanha Promo Relâmpago,Google,14224,399,96,1140.08,2.81,2.86,11.88
+2025-04-11,Campanha Promo Relâmpago,Facebook,19321,781,66,682.14,4.04,0.87,10.34
+2025-04-12,Campanha Páscoa,Google,14844,1392,68,1466.56,9.38,1.05,21.57
+2025-04-12,Campanha Páscoa,Facebook,18188,336,96,1378.91,1.85,4.1,14.36
+2025-04-12,Campanha Outono,Google,6208,841,62,477.63,13.55,0.57,7.7
+2025-04-12,Campanha Outono,Facebook,18790,1182,95,1496.16,6.29,1.27,15.75
+2025-04-12,Campanha Abril,Google,12582,463,30,1049.13,3.68,2.27,34.97
+2025-04-12,Campanha Abril,Facebook,19029,1272,84,865.46,6.68,0.68,10.3
+2025-04-12,Campanha Dia das Mães,Google,12942,1212,100,377.84,9.36,0.31,3.78
+2025-04-12,Campanha Dia das Mães,Facebook,11003,620,67,265.1,5.63,0.43,3.96
+2025-04-12,Campanha Promo Relâmpago,Google,12233,674,95,1440.18,5.51,2.14,15.16
+2025-04-12,Campanha Promo Relâmpago,Facebook,19819,813,80,1035.1,4.1,1.27,12.94
+2025-04-13,Campanha Páscoa,Google,13128,1058,76,362.1,8.06,0.34,4.76
+2025-04-13,Campanha Páscoa,Facebook,5393,445,41,982.18,8.25,2.21,23.96
+2025-04-13,Campanha Outono,Google,9655,317,76,505.52,3.28,1.59,6.65
+2025-04-13,Campanha Outono,Facebook,6474,1259,33,581.0,19.45,0.46,17.61
+2025-04-13,Campanha Abril,Google,7525,1436,37,1019.79,19.08,0.71,27.56
+2025-04-13,Campanha Abril,Facebook,5367,596,60,1414.52,11.1,2.37,23.58
+2025-04-13,Campanha Dia das Mães,Google,9973,391,86,612.59,3.92,1.57,7.12
+2025-04-13,Campanha Dia das Mães,Facebook,8758,891,76,463.3,10.17,0.52,6.1
+2025-04-13,Campanha Promo Relâmpago,Google,8971,1137,95,709.43,12.67,0.62,7.47
+2025-04-13,Campanha Promo Relâmpago,Facebook,5306,708,62,451.55,13.34,0.64,7.28
+2025-04-14,Campanha Páscoa,Google,12354,906,39,596.76,7.33,0.66,15.3
+2025-04-14,Campanha Páscoa,Facebook,13270,470,58,359.45,3.54,0.76,6.2
+2025-04-14,Campanha Outono,Google,16325,300,52,687.14,1.84,2.29,13.21
+2025-04-14,Campanha Outono,Facebook,13994,733,43,835.47,5.24,1.14,19.43
+2025-04-14,Campanha Abril,Google,7135,797,61,877.14,11.17,1.1,14.38
+2025-04-14,Campanha Abril,Facebook,9648,791,47,578.95,8.2,0.73,12.32
+2025-04-14,Campanha Dia das Mães,Google,9662,1383,42,1109.36,14.31,0.8,26.41
+2025-04-14,Campanha Dia das Mães,Facebook,6352,503,44,1172.34,7.92,2.33,26.64
+2025-04-14,Campanha Promo Relâmpago,Google,10688,573,84,334.74,5.36,0.58,3.99
+2025-04-14,Campanha Promo Relâmpago,Facebook,5647,419,34,1470.22,7.42,3.51,43.24
+2025-04-15,Campanha Páscoa,Google,7562,1187,76,205.29,15.7,0.17,2.7
+2025-04-15,Campanha Páscoa,Facebook,8121,1110,99,1071.7,13.67,0.97,10.83
+2025-04-15,Campanha Outono,Google,17919,1454,57,1363.22,8.11,0.94,23.92
+2025-04-15,Campanha Outono,Facebook,10802,1158,92,1055.36,10.72,0.91,11.47
+2025-04-15,Campanha Abril,Google,17667,658,76,912.49,3.72,1.39,12.01
+2025-04-15,Campanha Abril,Facebook,15504,507,62,1072.94,3.27,2.12,17.31
+2025-04-15,Campanha Dia das Mães,Google,13623,324,36,849.11,2.38,2.62,23.59
+2025-04-15,Campanha Dia das Mães,Facebook,18476,361,47,389.31,1.95,1.08,8.28
+2025-04-15,Campanha Promo Relâmpago,Google,12745,613,100,985.78,4.81,1.61,9.86
+2025-04-15,Campanha Promo Relâmpago,Facebook,18705,885,81,984.25,4.73,1.11,12.15
+2025-04-16,Campanha Páscoa,Google,17910,753,74,301.1,4.2,0.4,4.07
+2025-04-16,Campanha Páscoa,Facebook,10741,550,92,1103.95,5.12,2.01,12.0
+2025-04-16,Campanha Outono,Google,5132,498,70,1182.62,9.7,2.37,16.89
+2025-04-16,Campanha Outono,Facebook,13095,1440,33,1359.56,11.0,0.94,41.2
+2025-04-16,Campanha Abril,Google,6445,1247,63,1460.35,19.35,1.17,23.18
+2025-04-16,Campanha Abril,Facebook,17680,1102,99,562.8,6.23,0.51,5.68
+2025-04-16,Campanha Dia das Mães,Google,9586,735,85,533.61,7.67,0.73,6.28
+2025-04-16,Campanha Dia das Mães,Facebook,5419,1089,52,305.98,20.1,0.28,5.88
+2025-04-16,Campanha Promo Relâmpago,Google,16394,518,72,297.11,3.16,0.57,4.13
+2025-04-16,Campanha Promo Relâmpago,Facebook,19974,1311,63,1015.03,6.56,0.77,16.11
+2025-04-17,Campanha Páscoa,Google,17983,1267,35,806.47,7.05,0.64,23.04
+2025-04-17,Campanha Páscoa,Facebook,19144,631,100,1024.94,3.3,1.62,10.25
+2025-04-17,Campanha Outono,Google,19747,464,77,302.97,2.35,0.65,3.93
+2025-04-17,Campanha Outono,Facebook,7651,844,81,798.5,11.03,0.95,9.86
+2025-04-17,Campanha Abril,Google,11845,674,94,1355.88,5.69,2.01,14.42
+2025-04-17,Campanha Abril,Facebook,6895,959,40,713.69,13.91,0.74,17.84
+2025-04-17,Campanha Dia das Mães,Google,17723,875,62,252.5,4.94,0.29,4.07
+2025-04-17,Campanha Dia das Mães,Facebook,18899,1246,32,1277.33,6.59,1.03,39.92
+2025-04-17,Campanha Promo Relâmpago,Google,16587,609,76,864.15,3.67,1.42,11.37
+2025-04-17,Campanha Promo Relâmpago,Facebook,11124,844,53,1362.12,7.59,1.61,25.7
+2025-04-18,Campanha Páscoa,Google,16622,787,88,529.25,4.73,0.67,6.01
+2025-04-18,Campanha Páscoa,Facebook,11145,486,42,1365.97,4.36,2.81,32.52
+2025-04-18,Campanha Outono,Google,10038,1083,96,1190.45,10.79,1.1,12.4
+2025-04-18,Campanha Outono,Facebook,14875,1239,50,1457.71,8.33,1.18,29.15
+2025-04-18,Campanha Abril,Google,9982,1007,73,1378.77,10.09,1.37,18.89
+2025-04-18,Campanha Abril,Facebook,13673,1429,78,1013.61,10.45,0.71,13.0
+2025-04-18,Campanha Dia das Mães,Google,10791,689,98,1148.31,6.38,1.67,11.72
+2025-04-18,Campanha Dia das Mães,Facebook,19942,719,43,1204.81,3.61,1.68,28.02
+2025-04-18,Campanha Promo Relâmpago,Google,13098,942,31,955.82,7.19,1.01,30.83
+2025-04-18,Campanha Promo Relâmpago,Facebook,10462,918,90,288.54,8.77,0.31,3.21
+2025-04-19,Campanha Páscoa,Google,18763,690,78,475.68,3.68,0.69,6.1
+2025-04-19,Campanha Páscoa,Facebook,8015,1032,64,415.76,12.88,0.4,6.5
+2025-04-19,Campanha Outono,Google,11704,1318,57,1381.22,11.26,1.05,24.23
+2025-04-19,Campanha Outono,Facebook,12266,347,68,958.48,2.83,2.76,14.1
+2025-04-19,Campanha Abril,Google,6500,506,43,886.42,7.78,1.75,20.61
+2025-04-19,Campanha Abril,Facebook,19639,1005,69,631.15,5.12,0.63,9.15
+2025-04-19,Campanha Dia das Mães,Google,5762,1017,85,1328.68,17.65,1.31,15.63
+2025-04-19,Campanha Dia das Mães,Facebook,11072,708,83,1197.81,6.39,1.69,14.43
+2025-04-19,Campanha Promo Relâmpago,Google,14962,930,51,489.64,6.22,0.53,9.6
+2025-04-19,Campanha Promo Relâmpago,Facebook,19418,1500,31,1225.77,7.72,0.82,39.54
+2025-04-20,Campanha Páscoa,Google,15149,1309,42,1253.37,8.64,0.96,29.84
+2025-04-20,Campanha Páscoa,Facebook,14087,500,93,671.63,3.55,1.34,7.22
+2025-04-20,Campanha Outono,Google,12419,834,62,207.39,6.72,0.25,3.34
+2025-04-20,Campanha Outono,Facebook,11649,1096,61,658.75,9.41,0.6,10.8
+2025-04-20,Campanha Abril,Google,19066,1274,84,372.37,6.68,0.29,4.43
+2025-04-20,Campanha Abril,Facebook,11487,1044,86,1177.21,9.09,1.13,13.69
+2025-04-20,Campanha Dia das Mães,Google,12349,1083,39,451.58,8.77,0.42,11.58
+2025-04-20,Campanha Dia das Mães,Facebook,7544,748,85,1258.19,9.92,1.68,14.8
+2025-04-20,Campanha Promo Relâmpago,Google,8900,1278,55,1041.59,14.36,0.82,18.94
+2025-04-20,Campanha Promo Relâmpago,Facebook,10703,568,35,1323.98,5.31,2.33,37.83
+2025-04-21,Campanha Páscoa,Google,7976,531,47,267.71,6.66,0.5,5.7
+2025-04-21,Campanha Páscoa,Facebook,12571,428,68,1285.17,3.4,3.0,18.9
+2025-04-21,Campanha Outono,Google,19425,618,70,1281.29,3.18,2.07,18.3
+2025-04-21,Campanha Outono,Facebook,10298,1151,32,277.84,11.18,0.24,8.68
+2025-04-21,Campanha Abril,Google,6125,895,42,1071.0,14.61,1.2,25.5
+2025-04-21,Campanha Abril,Facebook,6714,614,77,1075.69,9.15,1.75,13.97
+2025-04-21,Campanha Dia das Mães,Google,14556,1191,38,1317.98,8.18,1.11,34.68
+2025-04-21,Campanha Dia das Mães,Facebook,9581,435,76,442.13,4.54,1.02,5.82
+2025-04-21,Campanha Promo Relâmpago,Google,17613,850,91,206.61,4.83,0.24,2.27
+2025-04-21,Campanha Promo Relâmpago,Facebook,19487,643,71,295.04,3.3,0.46,4.16
+2025-04-22,Campanha Páscoa,Google,6593,779,59,1054.8,11.82,1.35,17.88
+2025-04-22,Campanha Páscoa,Facebook,12924,779,56,932.06,6.03,1.2,16.64
+2025-04-22,Campanha Outono,Google,15149,525,69,963.07,3.47,1.83,13.96
+2025-04-22,Campanha Outono,Facebook,7434,1251,97,330.67,16.83,0.26,3.41
+2025-04-22,Campanha Abril,Google,6145,804,39,715.15,13.08,0.89,18.34
+2025-04-22,Campanha Abril,Facebook,11592,691,55,406.41,5.96,0.59,7.39
+2025-04-22,Campanha Dia das Mães,Google,19810,448,65,576.74,2.26,1.29,8.87
+2025-04-22,Campanha Dia das Mães,Facebook,9198,619,66,662.05,6.73,1.07,10.03
+2025-04-22,Campanha Promo Relâmpago,Google,11444,1279,80,211.42,11.18,0.17,2.64
+2025-04-22,Campanha Promo Relâmpago,Facebook,15889,1149,66,611.86,7.23,0.53,9.27
+2025-04-23,Campanha Páscoa,Google,8347,1091,60,1010.48,13.07,0.93,16.84
+2025-04-23,Campanha Páscoa,Facebook,5750,307,86,1355.29,5.34,4.41,15.76
+2025-04-23,Campanha Outono,Google,9345,1094,57,668.33,11.71,0.61,11.73
+2025-04-23,Campanha Outono,Facebook,19931,457,52,827.52,2.29,1.81,15.91
+2025-04-23,Campanha Abril,Google,8418,396,41,460.26,4.7,1.16,11.23
+2025-04-23,Campanha Abril,Facebook,16108,1201,84,587.52,7.46,0.49,6.99
+2025-04-23,Campanha Dia das Mães,Google,8700,622,46,870.54,7.15,1.4,18.92
+2025-04-23,Campanha Dia das Mães,Facebook,15193,853,72,848.41,5.61,0.99,11.78
+2025-04-23,Campanha Promo Relâmpago,Google,10249,765,89,737.41,7.46,0.96,8.29
+2025-04-23,Campanha Promo Relâmpago,Facebook,8418,1165,96,1494.63,13.84,1.28,15.57
+2025-04-24,Campanha Páscoa,Google,5545,1105,45,269.2,19.93,0.24,5.98
+2025-04-24,Campanha Páscoa,Facebook,10069,1273,96,1068.34,12.64,0.84,11.13
+2025-04-24,Campanha Outono,Google,15658,448,59,664.12,2.86,1.48,11.26
+2025-04-24,Campanha Outono,Facebook,16111,1330,41,615.02,8.26,0.46,15.0
+2025-04-24,Campanha Abril,Google,16246,929,34,879.47,5.72,0.95,25.87
+2025-04-24,Campanha Abril,Facebook,9869,635,49,768.69,6.43,1.21,15.69
+2025-04-24,Campanha Dia das Mães,Google,6830,954,31,434.7,13.97,0.46,14.02
+2025-04-24,Campanha Dia das Mães,Facebook,15718,1106,100,501.9,7.04,0.45,5.02
+2025-04-24,Campanha Promo Relâmpago,Google,17323,1108,31,1337.32,6.4,1.21,43.14
+2025-04-24,Campanha Promo Relâmpago,Facebook,15560,636,96,969.38,4.09,1.52,10.1
+2025-04-25,Campanha Páscoa,Google,10549,836,76,1166.71,7.92,1.4,15.35
+2025-04-25,Campanha Páscoa,Facebook,11776,1335,63,861.21,11.34,0.65,13.67
+2025-04-25,Campanha Outono,Google,17175,620,42,1348.61,3.61,2.18,32.11
+2025-04-25,Campanha Outono,Facebook,17421,548,100,1391.09,3.15,2.54,13.91
+2025-04-25,Campanha Abril,Google,17496,1090,99,418.66,6.23,0.38,4.23
+2025-04-25,Campanha Abril,Facebook,11067,709,87,497.85,6.41,0.7,5.72
+2025-04-25,Campanha Dia das Mães,Google,9070,527,94,988.78,5.81,1.88,10.52
+2025-04-25,Campanha Dia das Mães,Facebook,19070,744,33,1002.33,3.9,1.35,30.37
+2025-04-25,Campanha Promo Relâmpago,Google,6552,823,56,320.2,12.56,0.39,5.72
+2025-04-25,Campanha Promo Relâmpago,Facebook,9338,484,55,477.33,5.18,0.99,8.68
+2025-04-26,Campanha Páscoa,Google,14308,1121,35,603.54,7.83,0.54,17.24
+2025-04-26,Campanha Páscoa,Facebook,16125,1275,31,435.56,7.91,0.34,14.05
+2025-04-26,Campanha Outono,Google,6098,1231,79,1040.08,20.19,0.84,13.17
+2025-04-26,Campanha Outono,Facebook,14512,844,69,351.34,5.82,0.42,5.09
+2025-04-26,Campanha Abril,Google,12621,693,48,480.83,5.49,0.69,10.02
+2025-04-26,Campanha Abril,Facebook,14404,719,63,551.54,4.99,0.77,8.75
+2025-04-26,Campanha Dia das Mães,Google,19981,523,98,937.11,2.62,1.79,9.56
+2025-04-26,Campanha Dia das Mães,Facebook,14716,1097,82,468.63,7.45,0.43,5.71
+2025-04-26,Campanha Promo Relâmpago,Google,7473,577,61,217.14,7.72,0.38,3.56
+2025-04-26,Campanha Promo Relâmpago,Facebook,6136,345,71,1093.36,5.62,3.17,15.4
+2025-04-27,Campanha Páscoa,Google,14840,396,96,582.78,2.67,1.47,6.07
+2025-04-27,Campanha Páscoa,Facebook,9342,1403,81,634.66,15.02,0.45,7.84
+2025-04-27,Campanha Outono,Google,14145,542,91,1473.94,3.83,2.72,16.2
+2025-04-27,Campanha Outono,Facebook,12321,1267,95,1220.03,10.28,0.96,12.84
+2025-04-27,Campanha Abril,Google,6358,824,73,558.16,12.96,0.68,7.65
+2025-04-27,Campanha Abril,Facebook,13752,918,56,683.95,6.68,0.75,12.21
+2025-04-27,Campanha Dia das Mães,Google,6510,444,90,588.42,6.82,1.33,6.54
+2025-04-27,Campanha Dia das Mães,Facebook,16270,1103,37,213.11,6.78,0.19,5.76
+2025-04-27,Campanha Promo Relâmpago,Google,9586,920,93,1199.57,9.6,1.3,12.9
+2025-04-27,Campanha Promo Relâmpago,Facebook,7434,1248,40,640.56,16.79,0.51,16.01
+2025-04-28,Campanha Páscoa,Google,11211,361,56,439.14,3.22,1.22,7.84
+2025-04-28,Campanha Páscoa,Facebook,11403,380,95,1014.73,3.33,2.67,10.68
+2025-04-28,Campanha Outono,Google,9065,1168,43,305.19,12.88,0.26,7.1
+2025-04-28,Campanha Outono,Facebook,14620,1332,79,1001.48,9.11,0.75,12.68
+2025-04-28,Campanha Abril,Google,7421,1404,31,1338.47,18.92,0.95,43.18
+2025-04-28,Campanha Abril,Facebook,19986,1461,50,835.46,7.31,0.57,16.71
+2025-04-28,Campanha Dia das Mães,Google,7752,1497,64,517.41,19.31,0.35,8.08
+2025-04-28,Campanha Dia das Mães,Facebook,19029,1337,52,296.93,7.03,0.22,5.71
+2025-04-28,Campanha Promo Relâmpago,Google,13323,441,93,226.2,3.31,0.51,2.43
+2025-04-28,Campanha Promo Relâmpago,Facebook,17357,977,72,359.07,5.63,0.37,4.99
+2025-04-29,Campanha Páscoa,Google,11599,711,48,211.9,6.13,0.3,4.41
+2025-04-29,Campanha Páscoa,Facebook,17617,385,71,983.71,2.19,2.56,13.86
+2025-04-29,Campanha Outono,Google,5685,661,89,666.31,11.63,1.01,7.49
+2025-04-29,Campanha Outono,Facebook,14329,905,87,539.37,6.32,0.6,6.2
+2025-04-29,Campanha Abril,Google,6836,1330,68,1053.57,19.46,0.79,15.49
+2025-04-29,Campanha Abril,Facebook,16858,744,80,375.66,4.41,0.5,4.7
+2025-04-29,Campanha Dia das Mães,Google,8756,1079,56,1235.16,12.32,1.14,22.06
+2025-04-29,Campanha Dia das Mães,Facebook,14123,486,54,1485.08,3.44,3.06,27.5
+2025-04-29,Campanha Promo Relâmpago,Google,8831,1205,51,685.1,13.65,0.57,13.43
+2025-04-29,Campanha Promo Relâmpago,Facebook,7186,410,62,911.26,5.71,2.22,14.7
+2025-04-30,Campanha Páscoa,Google,11519,860,89,603.56,7.47,0.7,6.78
+2025-04-30,Campanha Páscoa,Facebook,7260,780,58,1090.18,10.74,1.4,18.8
+2025-04-30,Campanha Outono,Google,6756,770,33,1178.23,11.4,1.53,35.7
+2025-04-30,Campanha Outono,Facebook,8850,808,93,759.72,9.13,0.94,8.17
+2025-04-30,Campanha Abril,Google,10295,1364,41,1180.1,13.25,0.87,28.78
+2025-04-30,Campanha Abril,Facebook,8435,1204,90,687.46,14.27,0.57,7.64
+2025-04-30,Campanha Dia das Mães,Google,18566,670,64,650.23,3.61,0.97,10.16
+2025-04-30,Campanha Dia das Mães,Facebook,6365,453,58,1064.1,7.12,2.35,18.35
+2025-04-30,Campanha Promo Relâmpago,Google,5975,1380,67,778.41,23.1,0.56,11.62
+2025-04-30,Campanha Promo Relâmpago,Facebook,6514,1479,95,1154.21,22.7,0.78,12.15
